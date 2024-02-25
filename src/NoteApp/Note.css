@@ -1,0 +1,15 @@
+
+.content{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    margin: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
